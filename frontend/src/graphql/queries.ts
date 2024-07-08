@@ -21,8 +21,6 @@ export const GET_CONTINENTS = gql`
     }
   }
 `;
-<<<<<<< HEAD
-=======
 
 export const GET_COUNTRY_BY_CODE = gql`
   query GetCountryByCode($code: String!) {
@@ -36,4 +34,3 @@ export const GET_COUNTRY_BY_CODE = gql`
     }
   }
 `;
->>>>>>> cc3a99f (done)
